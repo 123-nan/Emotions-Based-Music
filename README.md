@@ -29,17 +29,12 @@ To run the app, type the following command in the terminal.
 
 
 
-## Demo video
 
-https://github.com/Hiralsathwara/Emotion-based-music-recommendation-system/assets/127468119/d8cf6f4a-bfd6-496e-a3b6-036f1fa608f6
 
 
 
  
 
-## Authors
-
-- [HIRAL SATHWARA](https://github.com/Hiralsathwara)
 
 
 
